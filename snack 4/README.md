@@ -1,0 +1,1 @@
+- confrontando il .lenght dei singoli array verranno aggiunti dei numeri random all'array con il .lenght minore
