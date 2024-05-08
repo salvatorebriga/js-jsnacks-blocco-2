@@ -1,0 +1,4 @@
+- inserire gli elementi nell'array tramite la funzione aggiungiElementi()
+- parametrizzare il valoreRicercato e scansionare l'array tramite trovaIndice()
+- in caso di esito positivo "return i" oppure "return -1"
+- l'array viene passato per reference.
