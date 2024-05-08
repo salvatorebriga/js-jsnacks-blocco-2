@@ -1,0 +1,3 @@
+- inserire gli elementi nell'array tramite la funzione aggiungiElementi()
+- creare una funzione stampa() che restituisca una stringa separata dalla virgola dopo ogni elemento
+- l'array viene passato per reference
